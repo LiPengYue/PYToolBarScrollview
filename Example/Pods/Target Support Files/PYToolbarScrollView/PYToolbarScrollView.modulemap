@@ -1,0 +1,6 @@
+framework module PYToolbarScrollView {
+  umbrella header "PYToolbarScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}

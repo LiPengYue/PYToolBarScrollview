@@ -1,0 +1,22 @@
+{
+  "name": "PYToolbarScrollView",
+  "version": "0.1.0",
+  "summary": "PYToolbarScrollView.",
+  "description": "顶部信息View+工具条+底部的ScrollView（ScrollView中又有n个View（可以是tableview 或者CollctionView））（不会有手势冲突）实现功能：根据底部的scrollView的拖动，设置顶部的View向上偏移",
+  "homepage": "https://github.com/LiPengYue/PYToolBarScrollview",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LiPengYue": "702029772@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LiPengYue/PYToolBarScrollview.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PYToolbarScrollView/Classes/**/*"
+}
